@@ -20,3 +20,7 @@ The more anger towards the past you carry in your heart, the less capable you ar
 
 ## My Favorite Websites 
 [Youtube](https://www.youtube.com/)
+[Twitter](https://x.com/?logout=1723745161226)
+
+## Person of Interest
+[LeBron James](https://en.wikipedia.org/wiki/LeBron_James)
