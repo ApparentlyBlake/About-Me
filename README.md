@@ -28,9 +28,10 @@ The more anger towards the past you carry in your heart, the less capable you ar
 ![LeBron_James_(51959977144)_(cropped2)](https://github.com/user-attachments/assets/a91f5029-5350-4e98-9830-91f4ea29bba4)
 
 
-| Terms | Definitions |
-| :-| ---- |  
-|Computer| an electronic device for storing and processing data, typically in binary form, according to instructions given to it in a variable program|
-|Mouse| a small handheld device that is dragged across a flat surface to move the cursor on a computer screen, typically having buttons that are pressed to control functions.|
-|Monitor| a television receiver used in a studio to select or verify the picture being broadcast from a particular camera.|
-|Keyboard| a panel of keys that operate a computer or typewriter|
+| Terms    | Definitions                                                                                             | My Meaning                                  |
+|----------|---------------------------------------------------------------------------------------------------------|---------------------------------------------|
+| Computer | An electronic device for storing and processing data, typically in binary form, according to instructions given to it in a variable program | Device that connects to the internet        |
+| Mouse    | A small handheld device that is dragged across a flat surface to move the cursor on a computer screen, typically having buttons that are pressed to control functions | Used to navigate on the internet as your finger would on a phone |
+| Monitor  | A television receiver used in a studio to select or verify the picture being broadcast from a particular camera | The screen                                  |
+| Keyboard | A panel of keys that operate a computer or typewriter                                                   | Something used to type                      |
+
