@@ -1,6 +1,7 @@
 # About-Me
 ---
 ---
+
 ## Summary
 
 My name is Blake Hunter. I love spending time with the people I care about and playing video games. 
@@ -25,3 +26,11 @@ The more anger towards the past you carry in your heart, the less capable you ar
 ## Person of Interest
 [LeBron James](https://en.wikipedia.org/wiki/LeBron_James)
 ![LeBron_James_(51959977144)_(cropped2)](https://github.com/user-attachments/assets/a91f5029-5350-4e98-9830-91f4ea29bba4)
+
+
+| Terms | Definitions |
+| :-| ---- |  
+|Computer| an electronic device for storing and processing data, typically in binary form, according to instructions given to it in a variable program|
+|Mouse| a small handheld device that is dragged across a flat surface to move the cursor on a computer screen, typically having buttons that are pressed to control functions.|
+|Monitor| a television receiver used in a studio to select or verify the picture being broadcast from a particular camera.|
+|Keyboard| a panel of keys that operate a computer or typewriter|
